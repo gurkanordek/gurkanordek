@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.google.com/search?sxsrf=ANbL-n4ZaYEA4gaC8l9LrcgSk2GYzN_eeQ:1770135524910&udm=2&q=backend+alani+kapak+fotograflari&aic=0#sv=CAMSVhoyKhBlLXZTTjRpMGFpVW1iUWJNMg52U040aTBhaVVtYlFiTToOSzd6ZmVWc25LTXVHS00gBCocCgZtb3NhaWMSEGUtdlNONGkwYWlVbWJRYk0YADABGAcg_-Cw9QUwAkoKCAEQAhgCIAIoAg](https://www.ehost.com.tr/wp-content/uploads/2024/10/8e151bc38fbacf41f72a081cd7f19282.jpg))
+[![MasterHead](https://www.ehost.com.tr/wp-content/uploads/2024/10/8e151bc38fbacf41f72a081cd7f19282.jpg)
 <h1 align="center">Hi 👋, I'm Gürkan Ördek</h1>
 <h3 align="center">A passionate web developer from Turkey</h3>
 
