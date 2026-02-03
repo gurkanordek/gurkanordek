@@ -1,6 +1,6 @@
 [![MasterHead](https://www.ehost.com.tr/wp-content/uploads/2024/10/8e151bc38fbacf41f72a081cd7f19282.jpg)
 <h1 align="center">Hi 👋, I'm Gürkan Ördek</h1>
-<h3 align="center">A passionate web developer from Turkey</h3>
+<h3 align="center">A passionate software developer from Turkey</h3>
 
 - 🔭 I’m currently working on **VoltFleet**
 
