@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, php**
 
-- 📫 How to reach me **gurkanordek183@gmail.com**
+- 📫 How to reach me **gurkanordek.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
